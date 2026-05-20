@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+mlruns/
+models/best_model.pkl
+models/scaler.pkl
+models/plots/
+models/cm_*.json
+data/*.csv
+.env
